@@ -1,1 +1,27 @@
 
+{
+  "name": "EcoMemory - Ecosystem Analyser",
+  "short_name": "EcoMemory",
+  "description": "AI Intelligent Ecosystem Change Analyser",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f2f3",
+  "theme_color": "#021f94",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
+
